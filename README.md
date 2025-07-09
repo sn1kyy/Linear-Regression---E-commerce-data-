@@ -3,7 +3,7 @@
 
 ## Description
 
-This project leverages linear regression techniques to analyze ecommerce customer data, with the goal of identifying which factors—mobile app usage, website usage, or membership duration—most significantly influence customer spending. By quantifying the impact of each channel, the analysis provides actionable insights to guide business strategy, resource allocation, and product development priorities for maximizing user engagement and retention.
+This project leverages linear regression techniques to analyze ecommerce customer data, with the goal of identifying which factors - mobile app usage, website usage, or membership duration - most significantly influence customer spending. By quantifying the impact of each channel, the analysis provides actionable insights to guide business strategy, resource allocation, and product development priorities for maximizing user engagement and retention.
 
 
 
