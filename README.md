@@ -19,7 +19,7 @@ This analysis will help in making **data-driven decisions** on where to concentr
 
 
 ## Project Overview
----
+
 This project uses linear regression to analyze ecommerce data and identify which user engagement channel or retention strategy most significantly drives business growth.
 
 
