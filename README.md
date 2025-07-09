@@ -2,13 +2,13 @@
 # Ecommerce Data Linear Regression Analysis
 
 ## Description
----
+
 This project leverages linear regression techniques to analyze ecommerce customer data, with the goal of identifying which factors—mobile app usage, website usage, or membership duration—most significantly influence customer spending. By quantifying the impact of each channel, the analysis provides actionable insights to guide business strategy, resource allocation, and product development priorities for maximizing user engagement and retention.
 
 
 
 ## Business Objective
----
+
 In this project we work with a dataset available on Kaggle. The data includes information about customers of an e-commerce website.
 - **Source:** [Kaggle Dataset](https://www.kaggle.com/datasets/kolawale/focusing-on-mobile-app-or-website)
 
